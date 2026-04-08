@@ -42,7 +42,7 @@ NLTK / SpaCy
 Matplotlib, Seaborn
 
 📂 Project Structure
-├── sentiment_analysis.ipynb
+├── raw.ipynb
 ├── training.1600000.processed.noemoticon.csv
 ├── README.md
 

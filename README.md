@@ -43,7 +43,7 @@ Matplotlib, Seaborn
 
 📂 Project Structure
 ├── sentiment_analysis.ipynb
-├── dataset.csv
+├── training.1600000.processed.noemoticon.csv
 ├── README.md
 
 📈 Key Learnings

@@ -56,6 +56,9 @@ Use Deep Learning (LSTM / BERT)
 Deploy as a web app
 Try real-time sentiment analysis
 
+## Business Impact
+Helps companies analyze customer feedback and improve products using sentiment insights.
+
 👤 Author
 Kunal Droch
 
